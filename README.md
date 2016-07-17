@@ -26,15 +26,17 @@ For the first time:
 ```
 $ python3 weather.py --config
 ```
-1.Add your city ID, then hit enter.
-2.Add your API key, then hit enter.
-3.Type your preferred unit, then hit enter.
+
+1. Add your city ID, then hit enter.
+2. Add your API key, then hit enter.
+3. Type your preferred unit, then hit enter.
 
 ![Terminal Weather](../master/img/img01.png "Terminal Weather")
 
-Then when you want to check the weather type:
+Then to check the weather:
+```
 $ python3 weather.py
-
+```
 ![Terminal Weather](../master/img/img02.png "Terminal Weather")
 
 
